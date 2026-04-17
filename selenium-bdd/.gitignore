@@ -1,0 +1,25 @@
+# Maven build output
+target/
+
+# IDE files
+.idea/
+*.iml
+.eclipse/
+.settings/
+.classpath
+.project
+
+# Sensitive config - if you add real credentials, keep this ignored
+# src/test/resources/config.properties
+
+# APK files (too large for GitHub)
+src/test/resources/apps/*.apk
+
+# Test reports (generated on run)
+test-output/
+allure-results/
+cucumber-reports/
+
+# OS files
+.DS_Store
+Thumbs.db
