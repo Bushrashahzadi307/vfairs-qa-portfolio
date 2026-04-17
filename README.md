@@ -241,7 +241,7 @@ Postman collections are great for exploration and manual testing. REST Assured i
 
 ## About
 
-**Bushra Shahzadi** — Senior SQA Team Lead & Project Manger  
+**Bushra Shahzadi** — Senior SQA Team Lead & Project Manager  
 📍 Wolverhampton, UK | Immediately available  
 🔗 [LinkedIn](https://linkedin.com/in/bushra-shahzadi-5bb899214)
 
